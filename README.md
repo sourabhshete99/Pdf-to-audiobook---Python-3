@@ -14,7 +14,9 @@ To convert any PDF to audiobook, following steps must be followed:
 
 4. Run the program file(after downloading) by following command:
 
-    python3 audiofile.py
+    
+        python3 audiofile.py
+
 
 5. Enter the name of your PDF file when its asks on terminal after running program.
 
@@ -28,4 +30,4 @@ NOTE: If there arises a problem with speaking, make sure your system has 'espeak
       
       sudo apt install espeak
       
-      If still the problem arises with speaking, you can mail me or message me.
+   If still the problem arises with speaking, you can mail me or message me.
